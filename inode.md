@@ -66,3 +66,8 @@ Modify: 2022-01-31 15:49:32.847339344 +0000
 Change: 2022-01-31 15:49:32.847339344 +0000
  Birth: -
 ```
+## References
+---
+- [ ] [Linux inodes Explained](https://www.youtube.com/watch?v=6KjMlm8hhFA)
+- [ ] [Linux Essentials - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
+- [ ] [Hard and Soft Links in Linux](https://www.youtube.com/watch?v=kYonC93SvpE)
